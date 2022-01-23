@@ -137,10 +137,10 @@ input {
     position: relative;
 }
 
-.login img {
+.login i {
     position: absolute;
-    top: 61px;
-    right: -40px;
+    top: 64px;
+    right: -45px;
     width: 22px;
     color: white;
 }
