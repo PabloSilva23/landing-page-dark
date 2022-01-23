@@ -8,7 +8,6 @@
     .container {
         width: 500px;
         height: 900px;
-        /* transform: translateY(160px); */
     }
     nav {
         top: 120px;
@@ -83,6 +82,10 @@
     }
 }
 @media screen and (max-width: 320px) {
+    .container {
+        transform: translateY(0px);
+    }
+    
     header h1 {
         position: absolute;
         top: 45px;
