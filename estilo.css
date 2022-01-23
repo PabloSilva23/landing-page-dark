@@ -18,7 +18,7 @@ body {
 .container {
     width: 900px;
     height: 600px;
-    background-color: springgreen;
+    background-color: black;
     border-radius: 7px;
 }
 header {
