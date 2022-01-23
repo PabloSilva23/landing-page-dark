@@ -117,6 +117,7 @@ section {
     width: 700px;
     left: 47%;
     transform: var(--centro);
+    /* border: 2px solid white; */
 }
 .conectar p {
     text-align: center;
@@ -133,14 +134,14 @@ input {
 .login {
     display: flex;
     flex-direction: column;
-    width: 200px;
+    width: 260px;
     position: relative;
 }
 
 .login i {
     position: absolute;
     top: 64px;
-    right: -45px;
+    right: 20px;
     width: 22px;
     color: white;
 }
@@ -159,9 +160,8 @@ input {
 
 .social-media {
     display: flex;
-    width: 200px;
+    width: 260px;
     flex-direction: column;
-    
 }
 .conect {
     width: 250px;
