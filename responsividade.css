@@ -66,6 +66,7 @@
     .container {
         height: 900px;
         width: 100%;
+        transform: translateY(-30px);
     }
     .text-princ {
         top: 20px;
